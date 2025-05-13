@@ -1,0 +1,19 @@
+{
+    "name": "rss-feed-proxy",
+    "version": "1.0.0",
+    "description": "Proxy for RSS feed with modified links",
+    "main": "feed.js",
+    "scripts": {
+        "build": "node feed.js"
+    },
+    "dependencies": {
+        "@xmldom/xmldom": "^0.8.10"
+    },
+    "keywords": [
+        "rss",
+        "feed",
+        "proxy"
+    ],
+    "author": "",
+    "license": "ISC"
+}
